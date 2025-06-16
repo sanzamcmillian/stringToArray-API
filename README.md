@@ -1,0 +1,1 @@
+# stringToArray-API
